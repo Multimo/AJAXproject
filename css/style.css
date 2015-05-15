@@ -16,6 +16,14 @@ body {background-color: #CCC;}
     text-align: center;
 }
 
+/*.instagram-container {
+    float:right;
+    width:290px;
+    padding:10px;
+    margin-right: 10px;
+    background-color: rgba(255,255,255,0.7);
+*/
+
 .wikipedia-container {
     float:right;
     width:290px;
